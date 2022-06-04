@@ -7,9 +7,13 @@ The app was made mostly by myself, Stetho and Mint. Some of the information in c
 
 Other contributors for K Guide included:
 [Blaze](https://github.com/BlazeK1ng420) (Providing assets)
+
 [RedMods](http://kik.me/rediselitev2) (Planned to add more to Android development sections)
+
 [Sin/Nagi](https://kik.me/sin) (Planned contribution)
+
 [Bacon](https://github.com/BaconPeeks) (Planned expanding on bot section to include other languages aside from Python)
+
 
 Thank you for what help you had time to provide <3
 
