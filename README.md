@@ -6,6 +6,7 @@ The app was made mostly by myself, Stetho and Mint. Some of the information in c
 [Download Here](https://www.mediafire.com/file/1blkn8khaqlg7er/K_Guide_base.apk/file)
 
 Other contributors for K Guide included:
+
 [Blaze](https://github.com/BlazeK1ng420) (Providing assets)
 
 [RedMods](http://kik.me/rediselitev2) (Planned to add more to Android development sections)
